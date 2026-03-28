@@ -40,7 +40,7 @@ get-me-a-coffee/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/get-me-a-coffee.git
+git clone https://github.com/Raj2006git/get-me-a-coffee.git
 ```
 
 2. Navigate to project folder
