@@ -9,7 +9,6 @@ A full-stack creator support platform where users can support creators by sendin
 * 🔹 User-friendly interface for supporting creators
 * 🔹 Dynamic routing using Next.js App Router
 * 🔹 API routes for backend logic
-* 🔹 (Optional) Payment integration *(Razorpay/Stripe if used)*
 * 🔹 Responsive design
 
 ---
@@ -73,12 +72,6 @@ http://localhost:3000
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
