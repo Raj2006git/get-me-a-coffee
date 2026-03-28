@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ☕ Get Me a Coffee
 
-## Getting Started
+A full-stack creator support platform where users can support creators by sending small payments ("buying a coffee"). Built using Next.js with modern web technologies.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Features
+
+* 🔹 User-friendly interface for supporting creators
+* 🔹 Dynamic routing using Next.js App Router
+* 🔹 API routes for backend logic
+* 🔹 (Optional) Payment integration *(Razorpay/Stripe if used)*
+* 🔹 Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend & Backend:** Next.js (Full-stack)
+* **Styling:** CSS / Tailwind *(update if used)*
+* **Deployment:** Vercel
+* **Other Tools:** Node.js
+
+---
+
+## 📂 Project Structure
+
+```
+get-me-a-coffee/
+│── app/            # Pages and UI
+│── public/         # Static assets
+│── package.json    # Dependencies
+│── next.config.mjs # Next.js config
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ⚙️ Installation & Setup
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clone the repository
 
-## Learn More
+```
+git clone https://github.com/your-username/get-me-a-coffee.git
+```
 
-To learn more about Next.js, take a look at the following resources:
+2. Navigate to project folder
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+cd get-me-a-coffee
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. Install dependencies
 
-## Deploy on Vercel
+```
+npm install
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Run development server
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
+npm run dev
+```
+
+5. Open in browser
+
+```
+http://localhost:3000
+```
+
+---
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Raj Mohanty**
+
+---
